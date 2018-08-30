@@ -66,12 +66,15 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 **Executive Clients Acquisition Ltd** (Aug. 2014 - June 2015)    
 *Team Leader*
 - Successfully led sales teams of five people to achieve their personal sales targets of a minimum of fifteen sales a week and adhere to standards prescribed by the company, developing leadership and teamwork skills.
+
 **JD Wetherspoon** May 2012 to Sept. 2012)   
 *Associate*
 - The airport branch of the company has the highest turnover in the country, with almost five times as much as a typical high street branch. This means that the expected standard of customer service was far higher.
+
 **Raleigh Borneo** (Jan. 2011 - Apr. 2011)    
 *Project Volunteer*
 - Participated in a ten-week expedition in Borneo, working on construction projects in diverse and multi-cultural team settings.
+
 **Domino's Pizza** (Sept. 2010 - Jan. 2011)   
 *Customer Delivery Driver*
 - This role involved the timely delivery of customer orders, handling cash payments and providing excellent customer service.

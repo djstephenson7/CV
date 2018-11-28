@@ -1,4 +1,4 @@
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="200" height="200">](https://www.linkedin.com/in/daniel-stephenson-b18b5883/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">](https://www.linkedin.com/in/daniel-stephenson-b18b5883/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/" width="50" height="50">](https://medium.com/@danieljames_41575)
 
 # Daniel Stephenson
 

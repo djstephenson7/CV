@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/daniel-stephenson-b18b5883">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">
   </a>
+  <a href="https://medium.com/@danieljames_41575">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg" width="50" height="50">
+  </a>
 </p>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">](https://www.linkedin.com/in/daniel-stephenson-b18b5883/) [<img src="wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2000px-Medium_logo_Monogram.svg.png" width="50" height="50">](https://medium.com/@danieljames_41575)

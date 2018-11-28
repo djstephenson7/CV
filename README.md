@@ -27,8 +27,8 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 | [Grow](https://github.com/afaraone/final-project)     | A visual to-do list that displays your goals as a beautiful garden. | React, Ruby on Rails, RSpec, Jest, Enzyme, HTML, CSS | 2 weeks |
 | [aceBook](https://github.com/Kharouk/fakeBook)      | A clone of Facebook, fully equipped with a chatroom and the option to change your background colour and font.    | React, Ruby on Rails, RSpec, JavaScript, HTML, CSS | 2 weeks |
 | [Mintstagram](https://github.com/djstephenson7/instagram-challenge) | A clone of Instagram. User can login, upload pictures, like and comment on other users' photos      |    Ruby on Rails, RSpec, HTML, CSS | 2 days |
-| [Pure JS Notes App]*(https://github.com/afaraone/notes-app)      | A notes app created in pure JavaScript. We did this without any existing dependencies, even creating our own server from scratch!       |  JavaScript, HTML, CSS | 1 week |
-| [Kangaroobnb](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | A clone of Airbnb with an Australian twist!      |  Nodejs, HTML, CSS |
+| [Pure JS Notes App](https://github.com/afaraone/notes-app)      | A notes app created in pure JavaScript. We did this without any existing dependencies, even creating our own server from scratch!       |  JavaScript, HTML, CSS | 1 week |
+| [Kangaroobnb](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | A clone of Airbnb with an Australian twist!      |  Nodejs, HTML, CSS | 1 week |
 
 ## Skills
 

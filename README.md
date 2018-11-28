@@ -6,8 +6,13 @@
   <a href="https://medium.com/@danieljames_41575">
   <img src="https://png2.kisspng.com/20180328/woq/kisspng-medium-logo-publishing-blog-i-5abb6adccf05a3.689953461522232028848.png" width="50" height="50">
   </a>
+  <a href="https://www.codewars.com/users/djstephenson7">
+  <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" width="50" height="50">
+  </a>
+  <a href="https://github.com/djstephenson7">
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50" height="50">
+  </a>
 </p>
-
 
 # Daniel Stephenson
 

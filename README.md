@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-stephenson-b18b5883">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:42px;height:42px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">
   </a>
 </p>
 

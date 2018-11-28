@@ -4,11 +4,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">
   </a>
   <a href="https://medium.com/@danieljames_41575">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg" width="50" height="50">
+  <img src="https://png2.kisspng.com/20180328/woq/kisspng-medium-logo-publishing-blog-i-5abb6adccf05a3.689953461522232028848.png" width="50" height="50">
   </a>
 </p>
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50">](https://www.linkedin.com/in/daniel-stephenson-b18b5883/) [<img src="wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2000px-Medium_logo_Monogram.svg.png" width="50" height="50">](https://medium.com/@danieljames_41575)
 
 
 # Daniel Stephenson

@@ -1,4 +1,7 @@
-## Daniel Stephenson
+[<img src="https://www.google.co.uk/
+https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">](https://www.linkedin.com/in/daniel-stephenson-b18b5883/)
+
+# Daniel Stephenson
 
 I am a curious, analytical and ambitious person, looking for a role where I can put everything I've learned about code into practice while gaining exposure to business strategy.
 

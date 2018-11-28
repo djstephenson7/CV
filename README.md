@@ -20,6 +20,14 @@ I am a curious, analytical and ambitious person, looking for a role where I can 
 
 Since graduating from Sheffield Hallam University with a 2:1 in History, I've worked as a door-to-door salesman, an English Teacher in both Vietnam and China and in an Operations role in a FinTech bank. It was in the latter where I witnessed how a few lines of code can challenge a centuries-old banking industry, so I've done everything possible to learn the invaluable skill of coding for myself.
 
+## Projects
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Skills
 
 #### Analytical
@@ -83,18 +91,6 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 *Team Leader*
 - Successfully led sales teams of five people to achieve their personal sales targets of a minimum of fifteen sales a week and adhere to standards prescribed by the company, developing leadership and teamwork skills.
 
-**JD Wetherspoon** May 2012 to Sept. 2012)   
-*Associate*
-- The airport branch of the company has the highest turnover in the country, with almost five times as much as a typical high street branch. This means that the expected standard of customer service was far higher.
-
-**Raleigh Borneo** (Jan. 2011 - Apr. 2011)    
-*Project Volunteer*
-- Participated in a ten-week expedition in Borneo, working on construction projects in diverse and multi-cultural team settings.
-
-**Domino's Pizza** (Sept. 2010 - Jan. 2011)   
-*Customer Delivery Driver*
-- This role involved the timely delivery of customer orders, handling cash payments and providing excellent customer service.
-
 ## Interests
 
 - *Boxing*: Nothing quite clears out your head than someone punching it repeatedly.
@@ -103,9 +99,3 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 - *Travelling*: "The world is a novel and if you don't travel, you only read one page."
 - *Meditating*: The mind's equivalent of clearing out your junk files.
 - *Gym*: I attend the 'Iron Church' five times a week, plus meal preparation.
-
-## Contact
-
-- Github: djstephenson7
-- CodeWars: https://www.codewars.com/users/djstephenson7
-- LinkedIn: https://www.linkedin.com/in/daniel-stephenson-b18b5883/

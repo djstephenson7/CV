@@ -22,9 +22,11 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 
 ## Projects
 
-| Tables        | Are           | Cool  |
+| Name       | Description       | Technologies |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| [Grow](https://github.com/afaraone/final-project)     | A visual to-do list | React, Rails, RSpec, Jest, Enzyme |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 

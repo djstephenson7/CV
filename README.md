@@ -22,9 +22,9 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 
 ## Projects
 
-| Name       | Description       | Technologies |
-| ------------- |:-------------:| -----:|
-| [Grow](https://github.com/afaraone/final-project)     | A visual to-do list | React, Rails, RSpec, Jest, Enzyme |
+| Name       | Description       | Technologies | Project Time |
+| ------------- |:-------------:| -----:| ------:|
+| [Grow](https://github.com/afaraone/final-project)     | A visual to-do list that displays your goals as a beautiful garden | React, Rails, RSpec, Jest, Enzyme | 2 weeks |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | col 2 is      | centered      |   $12 |

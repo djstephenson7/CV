@@ -37,7 +37,11 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 ## <a name="skills"></a>Skills
 
 #### Learner
-I have a drive and ability to continuously learn and an intuition to know how I learn best. I have a track record of this at Makers Academy, where I went from knowing very little about programming to developing my own web application in a few weeks. The challenge was to learn about using Ruby on Rails independently, and then to put what we'd learned into practice when we worked solo at the weekend. I dedicated my entire Saturday to filling in the learning gaps in my knowledge, especially when it came to using continuous integration services like Travis CI. This helped me test my code more robustly every time I wanted to commit a new build to GitHub. Consequently, I was able to add more skills to my repertoire, making myself a more rounded developer and the result was that I created an app that mimicked the core functionalities of Instagram, by myself, in two days.
+I have a drive and ability to continuously learn and an intuition to know how I learn best.
+S: I have a track record of this at Makers Academy, where I went from knowing very little about programming to developing my own web application in a few weeks.
+T: The challenge was to learn about using Ruby on Rails independently, and then to put what we'd learned into practice when we worked solo at the weekend.
+A: I dedicated my entire Saturday to filling in the learning gaps in my knowledge, especially when it came to using continuous integration services like Travis CI. This helped me test my code more robustly every time I wanted to commit a new build to GitHub.
+R: Consequently, I was able to add more skills to my repertoire, making myself a more rounded developer and the result was that I created an app that mimicked the core functionalities of Instagram, by myself, in two days.
 
 #### Solution-Focused
 I have a mindset of bringing a creative solution-orientated approach to solve daily problems by critically analysing situations, identify potential shortcomings and make necessary adjustments. As part of my exchange semester at Vienna School for Business and Economics, we were required to practice our problem-solving skills as part of a course module. Our goal was to visit three local clients in their offices, listen to their needs and goals, and engineer tailored strategy advice through structured PowerPoint presentations. Collaborating with a French colleague, we created innovative solutions to our clients' needs and structured them in an easy-to-understand, 'McKinsey-style' PowerPoint presentation that showed the evidence behind our conclusions. The clients were visibly impressed with our suggestions and gave us positive and constructive feedback. I haven't been back to Vienna since, so I don't know yet if they've acted on our advice!
@@ -64,7 +68,7 @@ I have a track record in adapting to unfamiliar surroundings in different cultur
 
 - MSc International Business and Management (Distinction)
 - Expanded on prior research skills to include new research techniques, including qualitative and quantitative data collection, analysis and interpretation.
-- - I provided consulting solutions for three Austrian companies in the form of structured, clear PowerPoint presentations.
+- I provided consulting solutions for three Austrian companies in the form of structured, clear PowerPoint presentations.
 
 #### Sheffield Hallam University (Sept. 2011 to June 2014)
 - BA History Hons (2:1)

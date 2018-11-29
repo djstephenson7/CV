@@ -14,13 +14,17 @@
   </a>
 </p>
 
+[Projects](https://github.com/djstephenson7/Github-CV/#projects)
+
 # Daniel Stephenson
 
 I am a curious, analytical and ambitious person, looking for a role where I can put everything I've learned about code into practice while gaining exposure to business strategy.
 
 Since graduating from Sheffield Hallam University with a 2:1 in History, I've worked as a door-to-door salesman, an English Teacher in both Vietnam and China and in an Operations role in a FinTech bank. It was in the latter where I witnessed how a few lines of code can challenge a centuries-old banking industry, so I've done everything possible to learn the invaluable skill of coding for myself.
 
+<a name="projects">
 ## Projects
+</a>
 
 | Name       | Description       | Technologies | Project Time |
 | ------------- |:-------------:| -----:| ------:|

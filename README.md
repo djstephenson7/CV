@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[Projects](#projects)
+[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests)
 
 # Daniel Stephenson
 
@@ -34,7 +34,7 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 | [Pure JS Notes App](https://github.com/afaraone/notes-app)      | A notes app created in pure JavaScript. We did this without any existing dependencies, even creating our own server from scratch!       |  JavaScript, HTML, CSS | 1 week |
 | [Kangaroobnb](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | A clone of Airbnb with an Australian twist!      |  Nodejs, HTML, CSS | 1 week |
 
-## Skills
+## <a name="skills"></a>Skills
 
 #### Analytical
 - I can critically evaluate and review information and logically analyse facts and data. I developed these skills during two degrees, where I attained a first class honours in my undergraduate dissertation and a distinction in my Master's Degree.
@@ -54,7 +54,7 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 - The ability to notice and appreciate the unique characteristics of each person and customise my approach accordingly.
 
 
-## Education
+## <a name="education"></a>Education
 
 #### Makers Academy (Sept 2018 to Nov. 2018)
 
@@ -83,7 +83,7 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 - TEFL 100 hour online course
 - PADI Level 1
 
-## Experience
+## <a name="experience"></a>Experience
 
 **Starling Bank** (Nov. 2017 to June 2018)    
 *Operations Support*
@@ -97,7 +97,7 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 *Team Leader*
 - Successfully led sales teams of five people to achieve their personal sales targets of a minimum of fifteen sales a week and adhere to standards prescribed by the company, developing leadership and teamwork skills.
 
-## Interests
+## <a name="interests">Interests
 
 - *Boxing*: Nothing quite clears out your head than someone punching it repeatedly.
 - *Football*: I could be Zidane one week and Djemba-Djemba the next.

@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests)
+[Projects](#projects)  |  [Skills](#skills)  |  [Experience](#experience)  |  [Education](#education)  |  [Interests](#interests)
 
 # Daniel Stephenson
 
@@ -38,10 +38,7 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 
 #### Learner
 I have a drive and ability to continuously learn and an intuition to know how I learn best.
-S: I have a track record of this at Makers Academy, where I went from knowing very little about programming to developing my own web application in a few weeks.
-T: The challenge was to learn about using Ruby on Rails independently, and then to put what we'd learned into practice when we worked solo at the weekend.
-A: I dedicated my entire Saturday to filling in the learning gaps in my knowledge, especially when it came to using continuous integration services like Travis CI. This helped me test my code more robustly every time I wanted to commit a new build to GitHub.
-R: Consequently, I was able to add more skills to my repertoire, making myself a more rounded developer and the result was that I created an app that mimicked the core functionalities of Instagram, by myself, in two days.
+I have a track record of this at Makers Academy, where I went from knowing very little about programming to developing my own web application in a few weeks. The challenge was to learn about using Ruby on Rails independently, and then to put what we'd learned into practice when we worked solo at the weekend. I dedicated my entire Saturday to filling in the learning gaps in my knowledge, especially when it came to using continuous integration services like Travis CI. This helped me test my code more robustly every time I wanted to commit a new build to GitHub. Consequently, I was able to add more skills to my repertoire, making myself a more rounded developer and the result was that I created an app that mimicked the core functionalities of Instagram, by myself, in two days.
 
 #### Solution-Focused
 I have a mindset of bringing a creative solution-orientated approach to solve daily problems by critically analysing situations, identify potential shortcomings and make necessary adjustments. As part of my exchange semester at Vienna School for Business and Economics, we were required to practice our problem-solving skills as part of a course module. Our goal was to visit three local clients in their offices, listen to their needs and goals, and engineer tailored strategy advice through structured PowerPoint presentations. Collaborating with a French colleague, we created innovative solutions to our clients' needs and structured them in an easy-to-understand, 'McKinsey-style' PowerPoint presentation that showed the evidence behind our conclusions. The clients were visibly impressed with our suggestions and gave us positive and constructive feedback. I haven't been back to Vienna since, so I don't know yet if they've acted on our advice!
@@ -50,6 +47,20 @@ The ability to handle qualitative and quantitative data collection, analysis and
 
 #### Adaptability
 I have a track record in adapting to unfamiliar surroundings in different cultures and countries. I've already lived in China, Vietnam and Austria. I moved to China in late 2015, working as a Foreign English Teacher. I was curious about that part of the world, so I thought I'd go and see it for myself. My responsibilities were to teach classes of over 60 students, aged between 7 and 12 and help them improve their English grammar, pronunciation and fluency. To keep my lessons fun, interesting and engaging, I constructed lesson plans that helped the students exercise their English skills while learning more about myself and the UK. It turned out that they were just as unfamiliar with Britain as I was with China! As a consequence, they kids' English skills showed a remarkable improvement and when I left, they  wrote me cards in perfect English, telling me how much they'd enjoyed my lessons with them.
+
+## <a name="experience"></a>Experience
+
+**Starling Bank** (Nov. 2017 to June 2018)    
+*Operations Support*
+- Showed ownership and accountability for offering solutions to help and benefit customers, responding to customer requests to correct data, maintaining high service standards and continually striving to improve the quality of the Starling Bank product.
+
+**Echo English (China)** (Sept. 2016 to June 2016)   
+*Foreign English Teacher*
+- Taught English as a foreign language in a primary school and a kindergarten in China, leading classes of over sixty students with no prior teaching experience, displaying the willingness to learn and move from my comfort zone.
+
+**Executive Clients Acquisition Ltd** (Aug. 2014 - June 2015)    
+*Team Leader*
+- Successfully led sales teams of five people to achieve their personal sales targets of a minimum of fifteen sales a week and adhere to standards prescribed by the company, developing leadership and teamwork skills.
 
 
 ## <a name="education"></a>Education
@@ -81,20 +92,6 @@ I have a track record in adapting to unfamiliar surroundings in different cultur
 #### Any other qualifications
 - TEFL 100 hour online course
 - PADI Level 1
-
-## <a name="experience"></a>Experience
-
-**Starling Bank** (Nov. 2017 to June 2018)    
-*Operations Support*
-- Showed ownership and accountability for offering solutions to help and benefit customers, responding to customer requests to correct data, maintaining high service standards and continually striving to improve the quality of the Starling Bank product.
-
-**Echo English (China)** (Sept. 2016 to June 2016)   
-*Foreign English Teacher*
-- Taught English as a foreign language in a primary school and a kindergarten in China, leading classes of over sixty students with no prior teaching experience, displaying the willingness to learn and move from my comfort zone.
-
-**Executive Clients Acquisition Ltd** (Aug. 2014 - June 2015)    
-*Team Leader*
-- Successfully led sales teams of five people to achieve their personal sales targets of a minimum of fifteen sales a week and adhere to standards prescribed by the company, developing leadership and teamwork skills.
 
 ## <a name="interests">Interests
 

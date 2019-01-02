@@ -54,7 +54,7 @@ I have a proven ability to quickly adapt to different cultures and countries, ha
 *Operations Support*
 - Showed ownership and accountability for offering solutions to help and benefit customers, responding to customer requests to correct data, maintaining high service standards and continually striving to improve the quality of the Starling Bank product.
 
-**Echo English (China)** (Sept. 2016 to June 2016)   
+**Echo English (China)** (Sept. 2015 to June 2016)   
 *Foreign English Teacher*
 - Taught English as a foreign language in a primary school and a kindergarten in China, leading classes of over sixty students with no prior teaching experience, displaying the willingness to learn and move from my comfort zone.
 

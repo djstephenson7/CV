@@ -12,6 +12,9 @@
   <a href="https://github.com/djstephenson7">
   <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50" height="50">
   </a>
+  <a href="https://www.xing.com/profile/Daniel_Stephenson/cv?sc_o=mxb_p">
+  <img src="https://www.brandeps.com/logo-download/X/Xing-Icon-01.png" width="50" height="50">
+  </a>
 </p>
 
 [Projects](#projects)  |  [Skills](#skills)  |  [Experience](#experience)  |  [Education](#education)  |  [Interests](#interests)

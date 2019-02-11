@@ -36,6 +36,8 @@ Since graduating from Sheffield Hallam University with a 2:1 in History, I've wo
 | [Mintstagram](https://github.com/djstephenson7/instagram-challenge) | A clone of Instagram. User can login, upload pictures, like and comment on other users' photos.      |    Ruby on Rails, RSpec, HTML, CSS | 2 days |
 | [Pure JS Notes App](https://github.com/afaraone/notes-app)      | A notes app created in pure JavaScript. We did this without any existing dependencies, even creating our own server from scratch!       |  JavaScript, HTML, CSS | 1 week |
 | [Kangaroobnb](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | A clone of Airbnb with an Australian twist!      |  Nodejs, HTML, CSS | 1 week |
+| [Joke Generator](https://github.com/djstephenson7/react-joke-generator)      | A joke generator that generates a random joke at the push of a button.       |  React, Ruby, HTML, CSS | Side project |
+| [Kangaroobnb](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | A clone of Airbnb with an Australian twist!      |  Nodejs, HTML, CSS | 1 week |
 
 ## <a name="skills"></a>Skills
 

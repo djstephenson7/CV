@@ -55,7 +55,7 @@ I have a proven ability to quickly adapt to different cultures and countries, ha
 ## <a name="experience"></a>Experience
 
 **Starling Bank** (Nov. 2017 to June 2018)    
-*Operations Support*
+*Operations Support Internship*
 - Showed ownership and accountability for offering solutions to help and benefit customers, responding to customer requests to correct data, maintaining high service standards and continually striving to improve the quality of the Starling Bank product.
 
 **Echo English (China)** (Sept. 2015 to June 2016)   
